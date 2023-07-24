@@ -1,0 +1,53 @@
+# Visual Studio cache files
+*.suo
+*.user
+*.vs/
+*.vssscc
+*.vspscc
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Resharper files (if using ReSharper)
+_ReSharper.*
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# User-specific files
+*.sln.docstates
+*.sln.ide
+
+# Web deployment files
+*.PublishSettings
+
+# Temporary files
+*.tmp
+*.temp
+*.[Cc]ache
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.config
+
+# ASP.NET files
+*.asax
+*.ascx
+*.asmx
+*.aspx
+*.axd
+*.svc
+
+# IIS URL Rewrite module
+Web.config.backup
